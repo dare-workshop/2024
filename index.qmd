@@ -7,8 +7,8 @@ description: |
   
 section-divs: false
 toc: false
-title-block-banner: "#FFD54F"
-title-block-banner-color: "black"
+title-block-banner: "#008794"
+title-block-banner-color: "white"
 
 ---
 
@@ -17,7 +17,7 @@ A gathering to discuss the emerging dilemmas around the principles and practice 
 :::
 
 ## Motivation
-:::{.yellow .normal}
+:::{.main .normal}
 Many of the contemporary issues affecting computational social scientists are related to both, *processes of* and the *ethical principles underlying* computational social science research, which are often, and repeatedly, disrupted by platform politics, new technologies, their implications, and their unknowns. For instance, the increasingly turbulent techno-political online environment has seen a few key developments that have affected the scope and characteristics of computational social science research centered on social media. The global pandemic, a looming climate change crisis, violent populist events such as Jan 6, 2021 (first ever attack on the U.S. Capitol), with a repeat on Jan 8, 2023, in Brazil (a copycat attack on Brazil’s Praça dos Três Poderes), the almost two-year long war between Russia and Ukraine, the attack on Israel by Hamas and the subsequent armed conflict in Gaza; and ubiquitous conspiracy theories surrounding everything have spurred more discussions around access, inclusivity, privilege, and propaganda, than ever before.
 
 Furthermore, these real-world events have been accompanied (and often closely entangled) with technological changes in the online world: the rise of TikTok and the fall of Facebook, Twitter’s takeover by Elon Musk, and new AI technologies (Open AI’s ChatGPT, DALL-E, Stable Diffusion, GitHub CoPilot, etc.). Especially LLMs (Large Language Models) and their applications  are being widely discussed in academia and media as potential "disruptors" of scientific integrity, especially the jobs of knowledge workers.
@@ -92,7 +92,7 @@ A tentative schedule will be announced soon.
 
 TBA
 
-:::{.yellow}
+:::{.main}
 ## Organizers
 ::: {.columns}
 
