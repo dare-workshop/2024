@@ -64,8 +64,7 @@ ICWSM researchers have for many years relied on APIs and large data collections 
 
 
 :::{.white .center}
-[Submit](https://google.de){.button}
-<br>link TBA.
+[Submit](https://easychair.org/my/conference?conf=dare24){.button}
 :::
 
 
