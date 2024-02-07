@@ -74,10 +74,10 @@ ICWSM researchers have for many years relied on APIs and large data collections 
 ### Important Dates
 :::
 
-- Workshop Papers Submissions: TBA
-- Workshop Paper Acceptance Notification: TBA
-- Workshop Final Camera-Ready Paper Due: TBA
-- ICWSM-2023 Workshops Day: TBA
+- Workshop Papers Submissions: March 31st
+- Workshop Paper Acceptance Notification: April 14th
+- Workshop Final Camera-Ready Paper Due: May 5th
+- ICWSM-2024 Workshops Day: June 3rd
 
 ## Program
 
