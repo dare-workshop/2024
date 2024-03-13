@@ -16,6 +16,10 @@ title-block-banner-color: "white"
 A gathering to discuss the emerging dilemmas around the principles and practice of computational social science research in a changing technological landscape.
 :::
 
+:::{.center}
+**New participation format "Behind the Scenes" announced**
+:::
+
 ## Motivation
 :::{.main .normal}
 Many of the contemporary issues affecting computational social scientists are related to both, *processes of* and the *ethical principles underlying* computational social science research, which are often, and repeatedly, disrupted by platform politics, new technologies, their implications, and their unknowns. For instance, the increasingly turbulent techno-political online environment has seen a few key developments that have affected the scope and characteristics of computational social science research centered on social media. The global pandemic, a looming climate change crisis, violent populist events such as Jan 6, 2021 (first ever attack on the U.S. Capitol), with a repeat on Jan 8, 2023, in Brazil (a copycat attack on Brazil’s Praça dos Três Poderes), the almost two-year long war between Russia and Ukraine, the attack on Israel by Hamas and the subsequent armed conflict in Gaza; and ubiquitous conspiracy theories surrounding everything have spurred more discussions around access, inclusivity, privilege, and propaganda, than ever before.
@@ -28,16 +32,30 @@ As computational social scientists, it is important not simply to study these ev
 ## Participate
 
 :::{.white .normal}
-In order to participate in the workshop, we invite two types of submissions:
+In order to participate in the workshop, we invite **three** types of submissions:
 
 1. Short, 200-word statements of interest that express a desire to participate in the workshop discussion, by positioning oneself with respect to the issues discussed below.
-2. Slightly longer, 2-page (in AAAI format) extended abstracts that detail one's position on one of the issues discussed below. Accepted abstracts will appear in the workshop proceedings. 
 
-Both types of submissions can be made at the submission portal on Easychair (link TBA). Given limited space, preference will be given to those who submitted extended abstracts.
+2. 2-5 page (in AAAI format) extended abstracts that detail one's position on one of the issues discussed below. Accepted abstracts will appear in the workshop proceedings. 
+
+:::{.highlight}
+3. "Behind the Scenes" insights on a recent paper (2-pages in AAAI format) 
+:::
+
+All types of submissions can be made at the submission portal on Easychair. Given limited space, preference will be given to those who submitted extended abstracts.
 
 The position papers should, at a high level, address concerns with processes of and the principles underlying computational social science research, and how they are often, and repeatedly, disrupted by platform politics, new technologies, their implications, and their unknowables. By <b>problems of process</b>, we refer to, for example, the fact that the increasing availability of proprietary AI tools has created challenges for the research process. With respect to <b>issues of principle</b>, we refer to the fact that recent events related to questionable technology takeovers and layoffs, exposes on techno-political alliances, and questionable labor practices at large technology companies create new dilemmas for researchers collecting, annotating, and analyzing online data. 
 
 Position papers should be grounded in evidence, prior published work, and ideally, also personal experiences. Examples of the position papers we seek can be found [here](https://www.nature.com/articles/d41586-023-00288-7), [here](https://www.nature.com/articles/d41586-022-03791-5), [here](https://www.nature.com/articles/d41586-022-03294-3), or they can be responses to news stories like [this one](https://www.wired.com/story/twitters-api-crackdown-will-hit-more-than-just-bots/). Ideally, position papers should respond to the provided prompts below (i.e., concerns about processess and principles), although we will also consider papers that do not explicitly respond to a prompt, but discuss an interesting and relevant problem pertinent to this discussion.
+
+:::{.highlight}
+The "Behind the Scenes" segment aims to shed light on
+the hurdles researchers face but seldom discuss in their final papers. In particular, we are looking fo submissions that touch upon issues regarding the themes outlined in detail in the next section.
+
+We encourage submissions from individuals and teams willing to share their experiences, including but not limited to, overcoming obstacles in data collection, navigating API limitations or costs, addressing reproducibility issues, and tackling the complexities of working with LLMs. Whether it was a struggle with dataset accessibility, an unexpected hiccup in model performance, or a creative workaround to a common problem, your insights can provide immense value to the community. This is an opportunity to discuss the often-unseen aspects of research that can significantly impact the outcome and interpretation of your work.
+
+By sharing these experiences, we hope to foster a more transparent, collaborative, and supportive research environment, enabling us to collectively tackle the complexities of modern computational social science research.
+:::
 
 ### Themes
 ::: {.panel-tabset}
