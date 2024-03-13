@@ -75,3 +75,8 @@ h2 {
 .panel-tabset li.nav-item:hover {
     background-color: #008794;
 }
+
+.highlight {
+    color: red;
+    font-weight: bold;
+}
