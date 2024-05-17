@@ -147,6 +147,25 @@ TBD
 :::
 :::
 
+::: {.column width="33%" .center}
+![](https://upload.wikimedia.org/wikipedia/commons/a/a2/Person_Image_Placeholder.png){width="60%" height="auto"}
+
+[Chung-hong Chan](https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Chung-hong.Chan?no_cache=1)
+:::
+
+::: {.column width="66%" .left}
+
+::: {.panel-tabset}
+### Bio
+
+Dr. Chung-hong Chan (PhD University of Hong Kong, 2018) is Senior Researcher in the Department of Computational Social Science, GESIS – Leibniz Institute for the Social Sciences, Cologne, Germany, and External Fellow at the Mannheim Center for European Social Research, University of Mannheim (Germany). An epidemiologist by training, he is interested in developing new quantitative methods for communication research. 
+
+### Topic
+
+What makes computational communication science (ir)reproducible? ([paper](https://journal.computationalcommunication.org/article/view/5926))
+
+:::
+:::
 
 
 :::{.main}
