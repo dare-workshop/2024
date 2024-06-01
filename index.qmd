@@ -131,8 +131,8 @@ The tentative schedule can be found below. (Buffalo local time, EDT/GMT-4)
 </tr>
 <tr class="odd">
 <td style="text-align: left;">09:15 - 10:15am</td>
-<td style="text-align: left;">Panel: Challenges & Opportunities with AI</td>
-<td style="text-align: left;">Orestis Papakyriakopoulos, Helena Webb</td>
+<td style="text-align: left;">Panel: More data is not the answer/Avoiding integrity crises in research</td>
+<td style="text-align: left;">Orestis Papakyriakopoulos, Helena Webb, moderated by Ella Haig</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">10:15 - 10:50am</td>
@@ -147,7 +147,14 @@ The tentative schedule can be found below. (Buffalo local time, EDT/GMT-4)
 <tr class="even">
 <td style="text-align: left;">11:10 - 12:45am</td>
 <td style="text-align: left;">Paper Session</td>
-<td style="text-align: left;">TBA</td>
+<td style="text-align: left;">
+1. Chaitya Shah - <em>Can Social Media Platforms Transcend Political Labels? An Analysis of Neutral Conservations on Truth Social
+</em> <a href="paper/2024_03.pdf">Link</a><br><br>
+2. Avi Rosenfeld - <em>Fighting Bias in the 2023-2024 Hamas-Israel Conflict</em> <a href="paper/2024_02.pdf">Link</a><br><br>
+3. Ke Zhou - <em></em><br><br>
+4. Fatima Zahrah, Jason R.C. Nurse - <em>Embedding Privacy in Computational Social Science and Artificial Intelligence Research </em> <a href="paper/2024_04.pdf">Link</a><br><br>
+
+</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">12:45 - 2:00pm</td>
